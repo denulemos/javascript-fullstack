@@ -44,3 +44,5 @@ Las etiquetas `main, footer, section, etc` fueron agregadas en HTML.
 
 * La etiqueta `main` marca la informacion mas relevante de la pagina, todo esto para que pueda ser indexada correctamente, que tome lo principal de la pagina, no cambia nada visualmente.
 * La etiqueta `header` agrega elementos de encabezado, como logos, iconos, informacion del autor, agrupa algunos contenidos jerarquicamente de importante. Es menos "importante" que lo que hay dentro de `main`.
+* `footer` define el pie de pagina de un documento HTML. Debe contener la informacion sobre el documento que la contiene pero un poco mas resumida. 
+* `img` agrega una imagen, desde un link o desde una ruta absoluta. 
